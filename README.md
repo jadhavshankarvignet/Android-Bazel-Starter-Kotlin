@@ -24,6 +24,12 @@ Explore our Kotlin build rules and use the same in your projects.
 
 * Databinidng is not supported
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ## About us
 <p align="center">
@@ -33,9 +39,3 @@ Explore our Kotlin build rules and use the same in your projects.
     </a>
     <br/>
 </p>
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
