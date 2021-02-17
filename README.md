@@ -34,7 +34,6 @@ Explore our Kotlin build rules and use the same in your projects.
     <br/>
 </p>
 
-
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
